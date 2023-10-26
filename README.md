@@ -9,8 +9,8 @@
   [![My Skills](https://skillicons.dev/icons?i=cs%2Cdotnet&perline=15&theme=dark)](https://skillicons.dev)
 
   ### Contact with me:
-  - **[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)**
-  - **[Telegram](https://t.me/your-telegram-username)**
+  - **[LinkedIn](https://www.linkedin.com/in/aksandr-al-ghazali/)**
+  - **[Telegram](https://t.me/dragodui)**
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dragodui&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dragodui&theme=react)
