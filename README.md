@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## I`m Aksandr Al-Ghazali, student and a Junior Front-end developer.
-### Technologies i use: [![My Skills](https://skillicons.dev/icons?i=js%2Cts%2Cvite%2Csass%2Credux%2Creact%2Chtml%2Cgit%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
+### Technologies i use: <br/> [![My Skills](https://skillicons.dev/icons?i=js%2Cts%2Cvite%2Csass%2Credux%2Creact%2Chtml%2Cgit%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
 
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dragodui&theme=react)
