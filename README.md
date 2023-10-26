@@ -2,7 +2,7 @@
 
 # <img src="https://github.com/Dragodui/Dragodui/assets/85372599/4c99dde6-3b0e-4e9a-b15d-9256f49fbeb7" alt="hi-hello" display="inline" width="60" height="60">Hi there 👋
 
-  ## color="white">I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.
+  ## I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.
   
   ### Technologies I Use: 
   [![My Skills](https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cjs%2Cts%2Cvite%2Csass%2Credux%2Creact%2Cgit%2Chtml%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
