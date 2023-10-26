@@ -1,5 +1,6 @@
 
-  # Hi there 👋![tuxedo-tuxedocat](https://github.com/Dragodui/Dragodui/assets/85372599/fa854980-4cc4-4cc2-b7a7-a0ff69fdb909)
+  # Hi there 👋![hi-hello](https://github.com/Dragodui/Dragodui/assets/85372599/494a2eef-eb5b-4672-96d9-1a75bc536db0)
+
 
   ## I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.
   
