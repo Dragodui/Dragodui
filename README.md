@@ -1,13 +1,18 @@
-## Hi there 👋
-## I`m Aksandr Al-Ghazali, student and a Junior Front-end developer.
-### Technologies i use:  <br/> [![My Skills](https://skillicons.dev/icons?i=js%2Cts%2Cvite%2Csass%2Credux%2Creact%2Chtml%2Cgit%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
+<div align="center">
+  <h2>Hi there 👋</h2>
+  <p>I'm Aksandr Al-Ghazali, a student and a Junior Front-end developer.</p>
+  
+  ### Technologies I Use: 
+  [![My Skills](https://skillicons.dev/icons?i=js%2Cts%2Cvite%2Csass%2Credux%2Creact%2Chtml%2Cgit%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
+</div>
 
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dragodui&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dragodui&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dragodui&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dragodui&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dragodui&theme=react&utcOffset=8)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dragodui&theme=react">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dragodui&theme=react">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dragodui&theme=react">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dragodui&theme=react">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dragodui&theme=react&utcOffset=8">
+</div>
 
 <!--
 **Dragodui/Dragodui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
