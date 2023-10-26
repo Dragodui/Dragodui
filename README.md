@@ -1,6 +1,6 @@
 
   # Hi there 👋
-  <h1>I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.</h1>
+  <p>I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.</p>
   
   ### Technologies I Use: 
   [![My Skills](https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cjs%2Cts%2Cvite%2Csass%2Credux%2Creact%2Cgit%2Chtml%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
