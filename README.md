@@ -1,8 +1,8 @@
 <div align="center">
-  # Hi there 👋
+  ### Hi there 👋
   ## I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.
   
-  ### Technologies I Use: 
+  # Technologies I Use: 
   [![My Skills](https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cjs%2Cts%2Cvite%2Csass%2Credux%2Creact%2Cgit%2Chtml%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
   
   ### I’m currently learning:
