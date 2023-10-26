@@ -1,8 +1,6 @@
 
 
-  # Hi there 👋<div align="center">
-  <img src="https://github.com/Dragodui/Dragodui/assets/85372599/696932e4-1ae8-4a97-8497-eef99fe7b6e8" alt="hi-hello" width="200" height="200">
-</div>
+  # Hi there 👋<img src="https://github.com/Dragodui/Dragodui/assets/85372599/696932e4-1ae8-4a97-8497-eef99fe7b6e8" alt="hi-hello" display="inline" width="40" height="40">
 
 
 
