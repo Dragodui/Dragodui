@@ -1,5 +1,5 @@
 
-  # Hi there 👋 ![cat](https://tenor.com/bFJM0.gif)
+  # Hi there 👋 <div class="tenor-gif-embed" data-postid="22301452" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/tuxedo-tuxedocat-pixelcat-blackcat-cat-gif-22301452">Tuxedo Tuxedocat Sticker</a>from <a href="https://tenor.com/search/tuxedo-stickers">Tuxedo Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <p>I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.</p>
   
   ### Technologies I Use: 
