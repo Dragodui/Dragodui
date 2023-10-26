@@ -1,4 +1,4 @@
-<div align="center">
+
   ### Hi there 👋
   ## I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.
   
