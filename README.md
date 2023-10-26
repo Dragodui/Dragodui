@@ -15,13 +15,14 @@
   - **[LinkedIn](https://www.linkedin.com/in/aksandr-al-ghazali/)**
   - **[Telegram](https://t.me/dragodui)**
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dragodui&theme=react)
+![](https://www.codewars.com/users/Dragodui/badges/large)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dragodui&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dragodui&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dragodui&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dragodui&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dragodui&theme=react&utcOffset=8)
 
-![](https://www.codewars.com/users/Dragodui/badges/large)
 <!--
 **Dragodui/Dragodui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
