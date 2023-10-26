@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h2>Hi there 👋</h2>
   <p>I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.</p>
   
