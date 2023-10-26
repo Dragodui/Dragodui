@@ -3,7 +3,7 @@
   <p>I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.</p>
   
   ### Technologies I Use: 
-  [![My Skills](https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2js%2Cts%2Cvite%2Csass%2Credux%2Creact%2Chtml%2Cgit%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js%2Cts%2Cvite%2Csass%2Credux%2Creact%2Chtml%2Cgit%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
   
   ### I’m currently learning:
   [![My Skills](https://skillicons.dev/icons?i=cs%2Cdotnet&perline=15&theme=dark)](https://skillicons.dev)
