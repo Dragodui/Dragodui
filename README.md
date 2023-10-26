@@ -1,5 +1,5 @@
-<div>
-  <h2>Hi there 👋</h2>
+<div align="center">
+  <h1>Hi there 👋</h1>
   <p>I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.</p>
   
   ### Technologies I Use: 
@@ -12,7 +12,7 @@
   [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
   [Telegram](https://t.me/your-telegram-username)
 </div>
-<div>
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dragodui&theme=react">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dragodui&theme=react">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dragodui&theme=react">
