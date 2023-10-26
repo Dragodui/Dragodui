@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h2>Hi there 👋</h2>
-  <p>I'm Aksandr Al-Ghazali, a student and a Junior Front-end developer.</p>
+  <h1>Hi there 👋</h1>
+  <h2>I'm Aksandr Al-Ghazali, a student and a Junior Front-end developer.</h2>
   
   ### Technologies I Use: 
   [![My Skills](https://skillicons.dev/icons?i=js%2Cts%2Cvite%2Csass%2Credux%2Creact%2Chtml%2Cgit%2Ccss&perline=15&theme=dark)](https://skillicons.dev)
