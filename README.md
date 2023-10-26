@@ -1,5 +1,5 @@
 
-  # Hi there 👋 ![](https://tenor.com/bFJM0.gif)
+  # Hi there 👋 ![cat](https://tenor.com/bFJM0.gif)
   <p>I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.</p>
   
   ### Technologies I Use: 
