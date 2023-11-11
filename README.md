@@ -11,8 +11,16 @@
   [![My Skills](https://skillicons.dev/icons?i=cs%2Cdotnet&perline=15&theme=dark)](https://skillicons.dev)
 
   ### Contact with me:
-  - **[LinkedIn](https://www.linkedin.com/in/aksandr-al-ghazali/)**
-  - **[Telegram](https://t.me/dragodui)**
+  <div style="display: flex; flex-direction: column; gap: 10px; margin-bottom: 30px">
+    <div style="display: flex; gap: 10px">
+      <img style="width:30px" src = "https://skillicons.dev/icons?i=linkedin&perline=15&theme=light"/>
+      <a style = "font-size: 20px; font-weight: 700;" src = "https://www.linkedin.com/in/aksandr-al-ghazali">LinkedIn</a>
+    </div>
+    <div style="display: flex; gap: 10px">
+      <img style="width:30px"  src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"/>
+      <a style = "font-size: 20px; font-weight: 700;" src = "https://t.me/dragodui">Telegram</a>
+    </div>
+  </div>
 
 ![](https://www.codewars.com/users/Dragodui/badges/large)
 
