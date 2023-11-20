@@ -10,10 +10,6 @@
   ## I’m currently learning:
   [![My Skills](https://skillicons.dev/icons?i=cs%2Cdotnet&perline=15&theme=dark)](https://skillicons.dev)
 
-  ## Contact with me:
-  ### **[LinkedIn](https://www.linkedin.com/in/aksandr-al-ghazali/)**
-
-  ### **[Telegram](https://t.me/dragodui)**
 
 ![](https://www.codewars.com/users/Dragodui/badges/large)
 
