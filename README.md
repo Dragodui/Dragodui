@@ -31,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
