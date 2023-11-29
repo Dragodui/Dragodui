@@ -5,7 +5,7 @@
   ## I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.
   
   ## My skills: 
-  [![My Skills](https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cvite%2Ctailwind%2Creact%2Cts%2Cjs%2Credux%2Chtml%2Ccss%2Csass%2Cgit&perline=8&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cvite%2Ctailwind%2Creact%2Cts%2Cjs%2Credux%2Chtml%2Ccss%2Csass%2Cgit&perline=8&theme=dark)](https://skillicons.dev)
   
   ## I’m currently learning:
   [![My Skills](https://skillicons.dev/icons?i=cs%2Cdotnet&perline=15&theme=dark)](https://skillicons.dev)
