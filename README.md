@@ -4,20 +4,19 @@
 
   ## I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.
   
-  ## Technologies I Use: 
- [![My Skills](https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Ctailwind%2Cts%2Cjs%2Csass%2Credux%2Creact%2Chtml%2Ccss%2Cgit%2Cvite&perline=15&theme=dark)](https://skillicons.dev)
+  ## My skills: 
+  [![My Skills](https://skillicons.dev/icons?i=vscode%2Cvisualstudio%2Cvite%2Ctailwind%2Creact%2Cts%2Cjs%2Credux%2Chtml%2Ccss%2Csass%2Cgit&perline=8&theme=light)](https://skillicons.dev)
   
   ## I’m currently learning:
   [![My Skills](https://skillicons.dev/icons?i=cs%2Cdotnet&perline=15&theme=dark)](https://skillicons.dev)
 
 
-![](https://www.codewars.com/users/Dragodui/badges/large)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dragodui&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dragodui&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dragodui&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dragodui&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dragodui&theme=react&utcOffset=8)
+![](https://www.codewars.com/users/Dragodui/badges/large)
 
 <!--
 **Dragodui/Dragodui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
