@@ -1,6 +1,6 @@
 
 
-# <img src="https://github.com/Dragodui/Dragodui/assets/85372599/4c99dde6-3b0e-4e9a-b15d-9256f49fbeb7" alt="hi-hello" display="inline" width="60" height="60">Hi there 👋
+# <img src="https://github.com/Dragodui/Dragodui/assets/85372599/4c99dde6-3b0e-4e9a-b15d-9256f49fbeb7" alt="hi-hello" display="inline" width="40" height="40">Hi there 👋
 
   ## I'm Aksandr Al-Ghazali, a Student and a Junior Front-end developer.
   
