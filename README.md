@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋 I'm Aksandr Al-Ghazali, a Student and a Full-Stack developer<br>Portfolio: https://al-ghazali-aksandr.netlify.app/</h2>
+<h1 align="left">Hi there 👋 I'm Aksandr Al-Ghazali, a Student and a Full-Stack developer<br>Portfolio: https://al-ghazali-aksandr.netlify.app/</h1>
 
 ###
 
