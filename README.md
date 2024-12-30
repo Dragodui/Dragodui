@@ -4,8 +4,7 @@
 
 
 
-<div style="display: flex; gap: 20px; align-items: start;">
-
+<div style="display: flex; gap: 20px; align-items: start; flex-direction: row;">
 <div styles="width: 50%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dragodui&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=6&theme=aura&hide_border=false" height="350" alt="languages graph"  />
 </div>
