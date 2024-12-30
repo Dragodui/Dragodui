@@ -6,10 +6,10 @@
 
 <div style="display: flex; gap: 20px; align-items: start;">
 
-<div align="right">
+<div styles="width: 50%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dragodui&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=6&theme=aura&hide_border=false" height="350" alt="languages graph"  />
 </div>
-<div styles="">
+<div styles="width: 50%">
 <div styles="padding: 100px">
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="5" />
