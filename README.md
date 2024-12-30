@@ -2,14 +2,14 @@
 
 ###
 
+<div align="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dragodui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dragodui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"/>
+</div>
 
+###
 
-<div style="display: flex; gap: 20px; align-items: start;">
-
-<section align="right" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dragodui&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=6&theme=aura&hide_border=false" height="350" alt="languages graph"  />
-</section>
-<section styles="">
+<section>
 <div>
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
   <img width="5" />
@@ -25,7 +25,7 @@
 </div>
 
 
-<div align="left" width="50%">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=15" height="50" alt="vite logo"  />  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="5" />
@@ -76,11 +76,7 @@
 
 
 </section>
-</div>
-
 
 ###
-
-
 
 # Contact Me: [LinkedIn](https://www.linkedin.com/in/aksandr-al-ghazali/), [Telegram](http://t.me/dragodui), [Gmail](mailto:alghazaliaks123@gmail.com), [Discord](https://discordapp.com/users/397769034483105793)  
