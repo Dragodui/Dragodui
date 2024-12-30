@@ -25,7 +25,7 @@
 </div>
 
 
-<div align="left">
+<div align="left" styles="position: relative; top: 440px;">
   <img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=15" height="50" alt="vite logo"  />  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="5" />
