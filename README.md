@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=python&theme=dark&perline=15" height="50" alt="python logo"  />
 </div>
 
-
+<img height="5" />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=15" height="50" alt="vite logo"  />  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
@@ -43,6 +43,7 @@
   
 </div>
 
+<img height="5" />
 
 
 <div align="left">
@@ -54,6 +55,7 @@
 </div>
 
 
+<img height="5" />
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="5" />
@@ -63,6 +65,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15" height="50" alt="sqlite logo"  />
 </div>
+
+<img height="5" />
 <div align="left">
     <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
     <img width="5" />
