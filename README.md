@@ -71,11 +71,6 @@
     <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo" />
-
 </div>
 
 
