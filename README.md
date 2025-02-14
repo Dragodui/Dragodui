@@ -64,6 +64,8 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark&perline=15" height="50" alt="sqlite logo"  />
+<img width="5" />
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark&perline=15" height="50" alt="redis logo"  />
 </div>
 
 
