@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Aksandr Al-Ghazali, a Student and a Full-Stack developer<br>[Portfolio](https://al-ghazali-aksandr.netlify.app/)
+# Hi there 👋 I'm Aksandr Al-Ghazali, a Student and a Full-Stack developer<br>[Portfolio](https://aksandr-al-ghazali.vercel.app/)
 
 ###
 
