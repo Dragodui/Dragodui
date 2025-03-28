@@ -33,14 +33,9 @@
     <img width="5" />
    <img src="https://skillicons.dev/icons?i=electron" height="50" alt="electron logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=threejs" height="50" alt="threejs logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  
 </div>
 
 
