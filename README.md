@@ -4,7 +4,7 @@
 
 <div align="left">
  <img src="https://github-readme-stats-2zhi.vercel.app/api/top-langs/?username=dragodui&hide=rich+text+format,html,css&exclude_repo=history-site-2022,github-readme-stats&layout=compact&langs_count=4&theme=transparent&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dragodui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="160" alt="stats graph"/>
+  <img src="https://github-readme-stats-2zhi.vercel.app/api?username=Dragodui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="160" alt="stats graph"/>
 </div>
 
 ###
