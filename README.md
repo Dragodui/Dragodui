@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Aksandr Al-Ghazali, a Student and a Full-Stack developer<br>[Portfolio](https://aksandr-al-ghazali.vercel.app/)
+# Hi there 👋 I'm Aksandr Al-Ghazali<br>**Software Engineer** specializing in **Node.js** & **Go**<br> [Portfolio](https://aksandr-al-ghazali.vercel.app/)
 
 ###
 
