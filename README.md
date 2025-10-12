@@ -10,7 +10,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,golang,python,expressjs,nestjs,react,postgresql,mysql,mongodb,redis,aws,git,docker&theme=dark&perline=7)]()
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,golang,python,expressjs,nestjs,react,nextjs,postgresql,mysql,mongodb,redis,aws,gcp,git,docker&theme=dark&perline=8)]()
 
 ###
 
